@@ -1,10 +1,7 @@
 using Faker;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RestSharp;
-using Faker.Resources;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Collections.Generic;
 
 namespace GithubIssuesTests
 {
